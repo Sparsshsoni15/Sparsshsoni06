@@ -1,0 +1,10 @@
+# Ignore compiled C/C++ files
+*.exe
+*.out
+a.out
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temp files
+*.log
