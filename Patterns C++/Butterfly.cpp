@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int n;
-    cout<<"Enter the number of rows:";
+    cout<<"Enter the number of rows: ";
     cin>>n;
     for(int p=1; p<=n; p++) //upper half
     {
